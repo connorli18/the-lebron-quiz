@@ -1,0 +1,39 @@
+body {
+    font-family: 'Fira Code', monospace;
+    margin: 0;
+    padding: 0;
+    background-color: yellow;
+    /* Change the background color to blue */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #800020;
+    color: white;
+    padding: 1% 0;
+    text-align: center;
+    margin-bottom: auto;
+}
+
+footer {
+    background-color: #800020;
+    color: white;
+    text-align: center;
+    padding: 1% 0;
+    margin-top: auto;
+    /* Ensure footer stays at the bottom */
+}
+
+main {
+    flex: 1;
+    padding: 2rem;
+}
+
+.le-marketplace-image {
+    width: 8rem;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+}
