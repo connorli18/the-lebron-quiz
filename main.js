@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const mainContainer = document.querySelector('.main-question-container');
     const startButton = document.querySelector('.start-lequiz-button');
-    let currentQuestionIndex = 0; // To track the current question
-    const userAnswers = []; // To store user answers
+    let currentQuestionIndex = 0;
+    const userAnswers = [];
 
     startButton.addEventListener('click', () => {
         fetch('question-1.json')
@@ -59,14 +59,13 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
 
 
-        // Add event listeners to answer buttons
         const answerButtons = document.querySelectorAll('.answer-button');
         answerButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const userAnswer = button.getAttribute('data-answer');
-                userAnswers.push(userAnswer); // Save user's answer
-                currentQuestionIndex++; // Move to the next question
-                loadQuestion(questions, currentQuestionIndex); // Load next question
+                userAnswers.push(userAnswer);
+                currentQuestionIndex++;
+                loadQuestion(questions, currentQuestionIndex);
             });
         });
     }
