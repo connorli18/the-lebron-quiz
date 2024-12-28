@@ -179,7 +179,8 @@ main {
     font-family: 'Fira Code', monospace;
     margin: 0.25rem;
     border: 4px solid black;
-    font-size: 0.55rem;
+    color: black;
+    font-size: 0.5rem;
     min-width: 8rem;
     /* Ensure buttons don’t shrink smaller than a specific width */
     min-height: 4rem;
@@ -206,4 +207,5 @@ main {
     margin: 0.25rem;
     border: 4px solid black;
     font-size: 1.3rem;
+    color: black;
 }
