@@ -1,0 +1,43 @@
+<div class="main-question-container">
+            <div class="top-stuff">
+                <div class="actual-question-container">
+                    <h2 class="question-fill-in">
+                        <!--Question Fill-Ins
+                        What weapon would you choose to fight with? For example, a sword, a
+                        gun, a shield, or a bow and arrow. What if there was a fifth option, a basketball? What would
+                        you do in that case?-->
+                    </h2>
+                </div>
+                <div class="image-container-question">
+                    <!--<img src="images/lebron-placeholder.jpg" class="lebron-james-quiz-image" alt="Lebron James Quiz">-->
+                </div>
+            </div>
+            <div class="bottom-stuff">
+                <div class="answer-to-qs-container">
+                    <div class="answer-container-row-1">
+                        <div class="answer-container1">
+                            <button class="answer-button">
+                                <!--Option A-->
+                            </button>
+                        </div>
+                        <div class="answer-container2">
+                            <button class="answer-button">
+                                <!--Option B-->
+                            </button>
+                        </div>
+                    </div>
+                    <div class="answer-container-row-2">
+                        <div class="answer-container3">
+                            <button class="answer-button">
+                                <!--Option C-->
+                            </button>
+                        </div>
+                        <div class="answer-container4">
+                            <button class="answer-button">
+                                <!--Option D-->
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
