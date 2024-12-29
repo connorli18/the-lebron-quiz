@@ -1,0 +1,174 @@
+{
+    "results": [
+        {
+            "name": "LeTrashTalk",
+            "image": "images/letrashtalk.jpg",
+            "description": "The glorious king of mind games and the undisputed GOAT of verbal warfare. You crush opponents with your wit, leaving no ego unscathed.",
+            "ratings": {
+                "confidence": 10,
+                "humor": 2,
+                "creativity": 8,
+                "social": 3,
+                "intensity": 10,
+                "honesty": 4,
+                "strategy": 6,
+                "boldness": 10,
+                "competitiveness": 10,
+                "relatability": 3
+            }
+        },
+        {
+            "name": "LeBlazePizza",
+            "image": "images/leblazepizza.webp",
+            "description": "The entrepreneurial GOAT with an oven-hot ambition. You bake greatness into every endeavor, crafting empires from dough and vision.",
+            "ratings": {
+                "confidence": 7,
+                "humor": 5,
+                "creativity": 10,
+                "social": 6,
+                "intensity": 6,
+                "honesty": 8,
+                "strategy": 9,
+                "boldness": 5,
+                "competitiveness": 8,
+                "relatability": 9
+            }
+        },
+        {
+            "name": "LeTacoTuesday",
+            "image": "images/letaco.jpg",
+            "description": "The GOAT of joy and celebration. Your enthusiasm lights up every Tuesday, spreading salsa-soaked happiness everywhere.",
+            "ratings": {
+                "confidence": 8,
+                "humor": 10,
+                "creativity": 7,
+                "social": 10,
+                "intensity": 8,
+                "honesty": 9,
+                "strategy": 5,
+                "boldness": 6,
+                "competitiveness": 4,
+                "relatability": 10
+            }
+        },
+        {
+            "name": "LeCheap",
+            "image": "images/lecheap.png",
+            "description": "The frugal genius GOAT. You turn pennies into treasures and dazzle everyone with your financial finesse.",
+            "ratings": {
+                "confidence": 6,
+                "humor": 6,
+                "creativity": 5,
+                "social": 4,
+                "intensity": 4,
+                "honesty": 10,
+                "strategy": 10,
+                "boldness": 3,
+                "competitiveness": 5,
+                "relatability": 8
+            }
+        },
+        {
+            "name": "LeDontKnowtheLyrics",
+            "image": "images/ledontknowlyrics.jpg",
+            "description": "The karaoke GOAT who doesn’t need accuracy to set the vibe. Your chaotic charm steals the show every time.",
+            "ratings": {
+                "confidence": 7,
+                "humor": 9,
+                "creativity": 6,
+                "social": 8,
+                "intensity": 5,
+                "honesty": 4,
+                "strategy": 3,
+                "boldness": 5,
+                "competitiveness": 3,
+                "relatability": 9
+            }
+        },
+        {
+            "name": "Lespañol (ItsArbol)",
+            "image": "images/learbol.jpg",
+            "description": "The multilingual cultural GOAT. Your charm bridges worlds, leaving everyone enchanted by your poetic efforts.",
+            "ratings": {
+                "confidence": 5,
+                "humor": 10,
+                "creativity": 9,
+                "social": 10,
+                "intensity": 4,
+                "honesty": 7,
+                "strategy": 6,
+                "boldness": 6,
+                "competitiveness": 4,
+                "relatability": 7
+            }
+        },
+        {
+            "name": "LeSpriteCranberry",
+            "image": "images/lecranberry.jpg",
+            "description": "The refreshing GOAT. Cool, crisp, and iconic, you quench thirsts with your liquid greatness and undeniable fizz.",
+            "ratings": {
+                "confidence": 4,
+                "humor": 6,
+                "creativity": 10,
+                "social": 7,
+                "intensity": 4,
+                "honesty": 8,
+                "strategy": 4,
+                "boldness": 5,
+                "competitiveness": 3,
+                "relatability": 5
+            }
+        },
+        {
+            "name": "LeCapper",
+            "image": "images/lecapper.jpg",
+            "description": "The fibbing GOAT who makes exaggeration look glorious. Nobody believes you, but everyone’s captivated by your audacity.",
+            "ratings": {
+                "confidence": 10,
+                "humor": 10,
+                "creativity": 8,
+                "social": 8,
+                "intensity": 6,
+                "honesty": 2,
+                "strategy": 3,
+                "boldness": 9,
+                "competitiveness": 6,
+                "relatability": 6
+            }
+        },
+        {
+            "name": "LeMeat",
+            "image": "images/lemeat.jpeg",
+            "description": "The raw GOAT who bares it all. Your unfiltered greatness leaves nothing to the imagination, earning admiration and awe.",
+            "ratings": {
+                "confidence": 9,
+                "humor": 2,
+                "creativity": 5,
+                "social": 3,
+                "intensity": 10,
+                "honesty": 6,
+                "strategy": 5,
+                "boldness": 10,
+                "competitiveness": 7,
+                "relatability": 3
+            }
+        },
+        {
+            "name": "LeBlockedByJames",
+            "image": "images/blocked.webp",
+            "description": "The defensive GOAT who thrives under pressure. When the moment calls for greatness, you rise to block the impossible.",
+            "ratings": {
+                "confidence": 10,
+                "humor": 4,
+                "creativity": 8,
+                "social": 6,
+                "intensity": 10,
+                "honesty": 9,
+                "strategy": 9,
+                "boldness": 10,
+                "competitiveness": 10,
+                "relatability": 6
+            }
+        }
+    ]
+}

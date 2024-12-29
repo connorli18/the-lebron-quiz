@@ -41,3 +41,46 @@
                 </div>
             </div>
         </div>
+
+    
+
+
+
+
+
+<div class="top-stuff">
+    <div class="result-type-large">
+        <h4 class="you-are">You are...</h4>
+        <h2 class="result-type">2016 Lebron James Game 7 of te Heat</h2>
+    </div>
+    <div class="image-container-question">
+        <img class="lebron-james-quiz-image"
+            src="https://img.bleacherreport.net/img/images/photos/003/744/101/hi-res-0364bb0c2937e11d2f9aa09a070aea91_crop_north.jpg?1527456138&w=3072&h=2048"
+            alt="Lebron James 2016">
+    </div>
+</div>
+<div class="bottom-stuff-2">
+
+    <div class="bar-results">
+        <div class="lebron-description-short">
+            A caring, yet compassionate soul who always does the most for others. Unstoppably determined and
+            a true hero to many, always the light of the room and willing to go the extra mile for your
+            teammates.
+        </div>
+
+
+    </div>
+
+    <div class="full-report-found">
+        Full le-personality report found <a
+            href="https://www.usab.com/players/lebron-james#:~:text=Gold%20Medals%3A%202008%2C%202012%20and,Male%20Athlete%20of%20the%20Year."
+            class="report-link">here</a>.
+    </div>
+
+    <div class="two-buttons">
+
+        <button class="retake-quiz">Retake Le-Quiz</button>
+        <button class="share-with-lefriends">Share with Le-Friends</button>
+    </div>
+
+</div>

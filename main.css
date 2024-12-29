@@ -64,7 +64,6 @@ main {
     width: auto;
     height: 100%;
     border: 5px solid black;
-    margin-top: 0rem;
 }
 
 .results-header {
@@ -231,7 +230,7 @@ main {
 .bottom-stuff-2 {
     display: flex;
     flex-direction: column;
-    margin-top: 1rem;
+    margin-top: 0rem;
     height: 40%;
     justify-content: space-between;
     padding-bottom: 0.5rem;
@@ -276,4 +275,38 @@ main {
     font-size: 0.7rem;
     height: 2rem;
     border: 3.5px solid black;
+}
+
+.bar-results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    color: white;
+    font-size: 0.5rem;
+}
+
+.lebron-description-short {
+    padding-top: 0.5rem;
+    color: white;
+    height: 60%;
+    font-size: 0.65rem;
+}
+
+.full-report-found {
+    padding-top: 0.5rem;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.65rem;
+    color: white;
+    white-space: normal;
+}
+
+.report-link {
+    padding-left: 0.45rem;
+    color: white;
 }

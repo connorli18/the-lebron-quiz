@@ -2,7 +2,7 @@
     "questions": [
         {
             "question": "You find yourself in a moonlit meadow, where Lebron James has mysteriously transformed into a majestic goat. His fur glistens as he nuzzles a jar of honey and whispers, ‘Pour it, and unlock the secrets of the hardwood.’ How do you respond?",
-            "image": "https://pbs.twimg.com/media/EkGE4lRVgAAPdwB.jpg",
+            "image": "images/lebron-booty.jpg",
             "answers": [
                 "Drizzle the honey in slow motion while humming the NBA theme song",
                 "Ask Lebron for advice on your mid-range jumper before things get stickier",
@@ -12,7 +12,7 @@
         },
         {
             "question": "After clinching Game 7 of the Finals, Lebron invites you to celebrate the victory by choosing one of his teammates to join you for a legendary post-game shower. Who do you pick, and why?",
-            "image": "https://wp.usatodaysports.com/wp-content/uploads/sites/90/2018/04/gty-951301072_99441061.jpg",
+            "image": "images/lebron-covered-withwater.webp",
             "answers": [
                 "Finals Jason Tatum",
                 "Bubble Jamal Murray",
@@ -22,7 +22,7 @@
         },
         {
             "question": "After the game, LeBron stands before you, shirtless, sweat glistening like liquid gold. He smiles, leans in close, and whispers, ‘You are my sunshine, my only sunshine.’ The room fills with the scent of victory and cocoa butter. What do you do next?",
-            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/eb/fd/1eebfdd1-af4d-bde2-64f0-721a813f6517/artwork.jpg/1200x1200bf-60.jpg",
+            "image": "images/mysunshine.jpg",
             "answers": [
                 "Offer to massage his calves while reciting poetry about his 2016 Finals performance",
                 "Write ‘Property of LeBron’ across your chest in honey and ask for a selfie",
@@ -32,7 +32,7 @@
         },
         {
             "question": "You’re sitting courtside as LeBron transforms through time before your eyes: Miami’s man, Cleveland’s hometown hero, LA’s ageless king, and the high school prodigy. Each version locks eyes with you, and they all whisper, ‘Pick me, baby.’ What happens next?",
-            "image": "https://miro.medium.com/v2/resize:fit:1400/1*kLSWhGccoZrcu8cSQHOFjw.png",
+            "image": "images/3holesforareason.png",
             "answers": [
                 "Bow to the Miami version while begging for forgiveness from the others",
                 "Start weeping uncontrollably and whisper, ‘You’re all my sunshine, my only sunshine'",
@@ -42,7 +42,7 @@
         },
         {
             "question": "In a steamy, celestial sauna, LeBron kneels before an angel. This angel, radiating pure judgment, strokes LeBron’s beard and whispers, ‘Confess your greatest sin, Chosen One.’ The room fills with the scent of cocoa butter and unspoken truths. What does LeBron say?",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/230208002315-01b-lebron-james-gallery-restricted.jpg?c=original",
+            "image": "images/chalktoss.jpg",
             "answers": [
                 "Fall to his knees and scream, ‘I knew the Migos would blow up—I’m a prophet!’",
                 "Try to recite a line from The Godfather, but falter and whisper, ‘I can’t.’",
@@ -52,7 +52,7 @@
         },
         {
             "question": "Baddest member of the James family?",
-            "image": "https://www.nbc.com/sites/nbcblog/files/styles/scale_600/public/2024/03/lebron-james-family.jpg",
+            "image": "images/thefam.jpg",
             "answers": [
                 "Bronny",
                 "Bryce",
@@ -62,7 +62,7 @@
         },
         {
             "question": "LeBron stands facing you––shirt open, diamonds gleaming, champagne glass in hand. He raises it high, leans in close, and purrs, ‘Ain’t no party like a Diddy party.’ The crowd gasps, the music swells, and the tension is electric. How do you honor his greatness in this moment?",
-            "image": "https://media.vanityfair.com/photos/5b883b536ae7020bdd3ef77a/4:3/w_1776,h_1332,c_limit/t-lebron-james-best-dressed-ss.jpg",
+            "image": "images/lebrondrip.webp",
             "answers": [
                 "Slip on a mink coat and start feeding him strawberries dipped in molten gold",
                 "Dance dramatically around him, chanting, ‘GOAT! GOAT! GOAT!’ until security intervenes",
@@ -72,9 +72,9 @@
         },
         {
             "question": "Grab the tissues and the lube, because it’s time to relive the greatest LeBron moments. Which masterpiece of basketball dominance sends you over the edge every time you think about it?",
-            "image": "https://fadeawayworld.net/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg1OTQ1NTU5MDA0MDk2MTk1/lebron-james-goggles.jpg",
+            "image": "images/glasseslepookie.jpg",
             "answers": [
-                "Game 7, 2016: Coming back from 3-1 and making history",
+                "2016 Finals (the whole series): Coming back from 3-1 and making history",
                 "Game 6, 2013: The Ray Allen shot that saved LeBron’s legacy",
                 "‘The Decision’: Taking his talents to South Beach and changing the NBA forever",
                 "‘The Block’: Iguodala denied, immortality achieved"
@@ -82,7 +82,7 @@
         },
         {
             "question": "What do you call your loved ones at home?",
-            "image": "https://pbs.twimg.com/media/EZAAX2KXQAE5rfl.jpg",
+            "image": "images/smilingthrupain.jpg",
             "answers": [
                 "Le-*Insert their name*",
                 "Le Pookie Bear",
@@ -92,7 +92,7 @@
         },
         {
             "question": "Who is the GOAT?",
-            "image": "https://ca-times.brightspotcdn.com/dims4/default/8d06fcc/2147483647/strip/true/crop/4520x3014+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2F49%2F299cfe8b4f7089533ebcc595f4a2%2Fparis-olympics-basketball-90554.jpg",
+            "image": "images/goldmedal.jpeg",
             "answers": [
                 "Lebron James",
                 "Known gambling addict Michael Jordan",
