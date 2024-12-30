@@ -50,7 +50,7 @@ def find_closest_lebron(average_scores, lebrons, trait_weights, lebron_counts, d
 
     return best_lebron
 
-
+# random walks are ineffective - selections tend to not be randomized
 def random_walk(question_file, rating_questions, lebrons, trait_weights, steps=10, diversity_boost=0.1):
     """
     Perform a random walk through the question file and return the distribution of LeBron results.
